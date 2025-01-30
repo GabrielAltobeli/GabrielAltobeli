@@ -36,7 +36,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielAltobeli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAltobeli&locale=pt-br&hide_title=true&layout=compact&card_width=110&langs_count=5&theme=dracula&hide_border=true&order=2" height="75" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAltobeli&locale=pt-br&hide_title=true&layout=compact&card_width=110&langs_count=5&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielAltobeli&radius=16&theme=dracula&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
